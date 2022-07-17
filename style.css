@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-image: url('https://cdn.pixabay.com/photo/2020/09/23/19/58/halloween-5596921_960_720.jpg')
+    background-image: url('')
 }
 
 header {
@@ -40,6 +40,13 @@ h1 {
     text-align: center;
     color: white;
     font-size: 36px;
+    margin-top: 45px;
+    margin-bottom: 40px;
+}
+h2 {
+    text-align: center;
+    color: white;
+    font-size: 28px;
     margin-top: 45px;
     margin-bottom: 40px;
 }
