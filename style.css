@@ -1,8 +1,10 @@
 body {
     font-family: sans-serif;
-    background-image: url('https://static.poshukach.com/imgpreview?key=3ba6b054f8463049&mb=imgdb_preview_560')
+    background-image: linear-gradient(mediumblue,gold);
 }
-
+a{
+    
+}
 header {
     display: flex;
     justify-content: space-between;
@@ -37,8 +39,8 @@ nav {
 }
 h {
     color: black;
-    font size: 30px;
-
+    font-size: 30px;
+}
 h1 {
     text-align: center;
     color: black;
