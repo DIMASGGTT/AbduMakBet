@@ -35,6 +35,9 @@ nav {
     text-decoration: none;
     display: block;
 }
+h {
+    color: black;
+    font size: 30px;
 
 h1 {
     text-align: center;
