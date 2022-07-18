@@ -1,5 +1,6 @@
 body {
     font-family: sans-serif;
+    background-image: url('https://static.poshukach.com/imgpreview?key=3ba6b054f8463049&mb=imgdb_preview_560')
 }
 
 header {
@@ -49,6 +50,11 @@ h2 {
     margin-top: 45px;
     margin-bottom: 40px;
 }
+h3 {
+    text-align: center;
+    color: black;
+    font-size: 36px;
+}
 
 .post-text {
     font-size: 24px;
@@ -62,11 +68,12 @@ h2 {
 }
 
 .post {
-    background-color: white;
-    padding: 15px 45px 30px 45px;
+   
+    
     width: 400px;
-    margin: 20px;
-    position: relative;
+    
+    position:relative;
+   
 }
 
 .article-but {
@@ -89,7 +96,7 @@ h2 {
 }
 
 footer {
-    background-color: white;
+    
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -124,11 +131,9 @@ footer {
 .button:hover{
     background-color: orchid;
 }
-.post:hover{
-    background-color: pink ;
-}
+
+
 .laptop:hover{
     position: relative;
     left: 325px;
 }
-
