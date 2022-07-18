@@ -121,16 +121,7 @@ footer {
     right: 50px;
     
 }
-h1::before{
-    content:url("https://image.shutterstock.com/image-photo/image-260nw-1358889212.jpg");
-    height:50px;
-    width:50px;
-}
-h1::after{
-    content:url("https://image.shutterstock.com/image-photo/image-260nw-1358889212.jpg");
-    height:20px;
-    width:20px;
-}
+
 .button:hover{
     background-color: orchid;
 }
